@@ -3,11 +3,11 @@ title: Butts4Life
 subtitle: by Sir Loris
 email: sirloris@gmail.com
 description: A movement for butts<br/> by butts.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jaohar.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
+city: Buttsville
 state: TN
 zip_code: 55555
 country: United States of America
@@ -19,7 +19,7 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: http://facebook.com
 github_url:
 gitlab_url:
 googleplus_url:
